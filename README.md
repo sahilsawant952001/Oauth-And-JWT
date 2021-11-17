@@ -1,6 +1,6 @@
 # Oauth-And-JWT
 
-To run this experiment<br/> 
+<b>To run this experiment:</b><br/> 
 
 Step 1) Clone this repository and navigate to folder. <br/> <br/> 
 Step 2) Run npm install to download all packages. <br/> <br/> 
@@ -12,7 +12,7 @@ Step 7) Now go to Twitter Application Management website and create new applicat
 Step 7) Create .env file and add all above keys and secrets in it. <br/> <br/>
 Step 8) Run code using node app.js. <br/> 
 
-References: <br/> 
+<b>References:</b><br/> 
 1) https://www.passportjs.org/packages/passport-google-oauth20/ <br/> 
 2) https://www.passportjs.org/packages/passport-facebook/ <br/> 
 3) https://www.passportjs.org/packages/passport-twitter/ <br/> 
